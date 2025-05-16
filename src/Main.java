@@ -9,6 +9,8 @@ public class Main {
 
         book1.setPublicationYear(1861);
 
+        System.out.println(book1);
+        System.out.println(book2);
 
 
     }
